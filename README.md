@@ -78,3 +78,35 @@ Browser -> Flask routes -> services (parsing/NLP/reporting) -> SQLAlchemy/SQLite
 
 ## Viva topics
 Explain TF-IDF, cosine similarity, skill extraction, score weighting, password hashing, file validation, SQLAlchemy ORM, PDF parsing, Flask routing, and limitations of heuristic ATS scoring.
+
+
+
+output: .............................................................
+
+<img width="1360" height="723" alt="Image" src="https://github.com/user-attachments/assets/a0f2029f-d036-412e-a0b3-f96fdb7f0e02" />
+
+<img width="1176" height="589" alt="Image" src="https://github.com/user-attachments/assets/8165e090-ead7-4218-9aea-e187dc736a9a" />
+
+<img width="1179" height="488" alt="Image" src="https://github.com/user-attachments/assets/0341c492-2854-4f17-ba5b-8fb0bb4325e2" />
+
+<img width="1355" height="656" alt="Image" src="https://github.com/user-attachments/assets/fe3da8ae-e54e-4ffd-bbbd-29d0047e40f1" />
+
+<img width="1355" height="639" alt="Image" src="https://github.com/user-attachments/assets/1c321fc5-76a8-4f7f-8f28-e8c010be9928" />
+
+<img width="1338" height="561" alt="Image" src="https://github.com/user-attachments/assets/a78f4fc5-cc24-47a3-b7f3-4a6a24f0a6b8" />
+
+<img width="1287" height="623" alt="Image" src="https://github.com/user-attachments/assets/79e7866a-6eab-417b-a6a3-c34939124fba" />
+
+<img width="1287" height="623" alt="Image" src="https://github.com/user-attachments/assets/be312743-6466-4f44-8193-32d855410ba9" />
+
+<img width="942" height="272" alt="Image" src="https://github.com/user-attachments/assets/989e9681-b4f0-4423-a6a3-f5c05732d041" />
+
+<img width="1360" height="317" alt="Image" src="https://github.com/user-attachments/assets/608883eb-22eb-4ebd-aebe-8ffc2cb4e9a6" />
+
+<img width="1354" height="525" alt="Image" src="https://github.com/user-attachments/assets/b9621342-0dbb-4b35-b72d-e62107833c91" />
+
+<img width="1360" height="611" alt="Image" src="https://github.com/user-attachments/assets/efa19cec-a502-4a6f-a9cc-84e7ff5b98b6" />
+
+<img width="1339" height="619" alt="Image" src="https://github.com/user-attachments/assets/d4490f87-62c9-4c3e-af00-bf1f046e464b" />
+
+<img width="1360" height="629" alt="Image" src="https://github.com/user-attachments/assets/872b7e24-e7b9-4a5f-b79f-2a89e14abc68" />
